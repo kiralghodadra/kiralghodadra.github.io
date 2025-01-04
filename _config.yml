@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Antarctican
+title: Antarctican by heart
 subtitle: 
 description: Welcome to the world full of wonders..!!
 author: Kiral Ghodadra
