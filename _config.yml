@@ -35,10 +35,11 @@ subtitle:
 description: Welcome to the world full of wonders..!!
 author: Kiral Ghodadra
 email: kiral2004@yahoo.co.in
-avatar: assets/images/avatar2.jpg
+avatar: site/assets/images/Kiral.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+# baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
@@ -59,5 +60,6 @@ google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
 #theme: jekyll-theme-prologue
-remote_theme: jekyll-theme-prologue
+#remote_theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
