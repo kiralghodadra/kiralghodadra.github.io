@@ -2,7 +2,7 @@
 title: 1 - Introduction
 name: INTRODUCTION
 author: Kiral Ghodadra
-cover-photo: https://github.com/kiralghodadra/kiralghodadra.github.io/tree/main/pics/ch1_introduction/cover_page_intro.JPG
+cover-photo: https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1cover.JPG
 cover-photo-alt: Chapter 1
 layout: post
 ---
@@ -50,12 +50,12 @@ Voyage team board the ice breaker ship from Cape Town, South Africa that sails t
 
 <div class="row"> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/India_in_Antarctica.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/Antarctica.jpg">
 	<h3 style="font-size:15px;">India in Antarctica</h3>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/itbp_auli_me1.jpg">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/itbp_auli1.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/itbpaulime1.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/itbpauli1.jpg">
       <h3 style="font-size:15px;">ITBP Auli Training</h3>
   </div> 
   <div class="column">
@@ -81,15 +81,15 @@ Voyage team board the ice breaker ship from Cape Town, South Africa that sails t
       <h3 style="font-size:15px;">Ship - Ivan Papanin @ Cape Town - Ready to depart</h3>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ship_at_bharati.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/shipatbharati.jpg">
       <h3 style="font-size:15px;">Ship @ Quilty Bay - Antarctica</h3>
   </div> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/me_wid_heli.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/mewidheli.jpg">
       <h3 style="font-size:15px;">Me with Heli</h3>
   </div> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/field_work.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/fieldwork.jpg">
       <h3 style="font-size:15px;">Field wirk @ Antarctica</h3>
   </div>   
 </div>
