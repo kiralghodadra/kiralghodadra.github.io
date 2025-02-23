@@ -71,27 +71,23 @@ Voyage team board the ice breaker ship from Cape Town, South Africa that sails t
   <div class="column">
     <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_six.jpg">
       <h3 style="font-size:15px;">Bharati Station</h3>
-  </div>
-  <div class="column">
     <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_seven.jpg">
-      <h3 style="font-size:15px;">Maitri Station</h3>
-  </div> 
-  <div class="column">
+      <h3 style="font-size:15px;">Maitri Station</h3>	  
+  </div>
+ 
+ <div class="column">
     <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_eight.jpg">
       <h3 style="font-size:15px;">Ship - Ivan Papanin @ Cape Town - Ready to depart</h3>
-  </div>
-  <div class="column">
     <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_nine.jpg">
-      <h3 style="font-size:15px;">Ship @ Quilty Bay - Antarctica</h3>
-  </div> 
+      <h3 style="font-size:15px;">Ship @ Quilty Bay - Antarctica</h3>	  
+  </div>
+
   <div class="column">
     <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_ten.jpg">
       <h3 style="font-size:15px;">Me with Heli</h3>
-  </div> 
-  <div class="column">
     <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_eleven.jpg">
-      <h3 style="font-size:15px;">Field wirk @ Antarctica</h3>
-  </div>   
+      <h3 style="font-size:15px;">Field work @ Antarctica</h3>	  
+  </div> 
 </div>
 <p></p>
 
