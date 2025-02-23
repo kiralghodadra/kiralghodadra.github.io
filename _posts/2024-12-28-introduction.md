@@ -50,17 +50,17 @@ Voyage team board the ice breaker ship from Cape Town, South Africa that sails t
 
 <div class="row"> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/one.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_one.jpg">
 	<h3 style="font-size:15px;">India in Antarctica</h3>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/two.jpg">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/three.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_two.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_three.jpg">
       <h3 style="font-size:15px;">ITBP Auli Training</h3>
   </div> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/four.jpg">
-	<img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/five.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_four.jpg">
+	<img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_five.jpg">
       <h3 style="font-size:15px;">Capetown, South Africa</h3>
   </div>   
 </div>
@@ -69,27 +69,27 @@ Voyage team board the ice breaker ship from Cape Town, South Africa that sails t
 
 <div class="row"> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/six.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_six.jpg">
       <h3 style="font-size:15px;">Bharati Station</h3>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/seven.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_seven.jpg">
       <h3 style="font-size:15px;">Maitri Station</h3>
   </div> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/eight.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_eight.jpg">
       <h3 style="font-size:15px;">Ship - Ivan Papanin @ Cape Town - Ready to depart</h3>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/nine.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_nine.jpg">
       <h3 style="font-size:15px;">Ship @ Quilty Bay - Antarctica</h3>
   </div> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ten.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_ten.jpg">
       <h3 style="font-size:15px;">Me with Heli</h3>
   </div> 
   <div class="column">
-    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/eleven.jpg">
+    <img src="https://raw.githubusercontent.com/kiralghodadra/kiralghodadra.github.io/main/site/assets/images/ch1/ch1_eleven.jpg">
       <h3 style="font-size:15px;">Field wirk @ Antarctica</h3>
   </div>   
 </div>
