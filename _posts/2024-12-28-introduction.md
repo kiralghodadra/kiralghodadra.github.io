@@ -43,13 +43,6 @@ So, this is all about the team formation & classification that in itself is quit
 
 <p>Wait.... Getting selected for the expedition is not enough! There are few more challenges that every expedition team member has to face after which only he / she is qualified to take part in an Antarctic expedition. We had to undergo a thorough medical examination at All India Institute of Medical Sciences <a href="https://aiims.edu/index.php/en">(AIIMS)</a>, New Delhi that was almost a week long process. Following which, a physical fitness training was held under the expert guidance of Indo Tibettan Border Police Force (ITBPF) officials at Mountaineering & Skiing Institute <a href="https://www.itbpolice.nic.in/">(M&SI)</a>, Auli, Uttarakhand, details of which are shared in a separate chapter. On successful completing of all the tests, participants get the final clearance to take part in an Antarcic expediton.</p>
 
-<p>Members of the expedition team report NCPOR, Goa as per their respective schedules. The team flies to Cape Town, South Africa which is the launching point of Indian Antarctic Expedition. The Antactic Logistics Centre International <a href="https://www.ch-aviation.com/airlines/LCI">(ALCI)</a> is responsible for the intercontinental air bridge between Cape Town, South Africa & Novolazarevskaya, Antarctica. A blue ice runway operated by ALCI serves the Indian station Maitri & Russian station Novolazarevskaya. Flying team members reach Antarctica through special flights operated by ALCI. From Cape Town, the team flies to Maitri station & from there they take another flight to Bharati station.<br>
-
-Voyage team board the ice breaker ship from Cape Town, South Africa that sails to both the Indian Research stations in Antarctica & returns back to Cape Town at the end of Antarctic summer season. I was fortunate to be part of the voyage team of 36<sup>th</sup> Indian Scientific Expedition to Antarcica (ISEA-36) that took place during the year 2016 - 2017. So, I will be sharing my voyage experiences in more detail in subsequent chapters.</p>
-
-
-
-
 
 <div class="row"> 
   <div class="column">
@@ -68,6 +61,12 @@ Voyage team board the ice breaker ship from Cape Town, South Africa that sails t
   </div>   
 </div>
 <p></p>
+
+
+
+<p>Members of the expedition team report NCPOR, Goa as per their respective schedules. The team flies to Cape Town, South Africa which is the launching point of Indian Antarctic Expedition. The Antactic Logistics Centre International <a href="https://www.ch-aviation.com/airlines/LCI">(ALCI)</a> is responsible for the intercontinental air bridge between Cape Town, South Africa & Novolazarevskaya, Antarctica. A blue ice runway operated by ALCI serves the Indian station Maitri & Russian station Novolazarevskaya. Flying team members reach Antarctica through special flights operated by ALCI. From Cape Town, the team flies to Maitri station & from there they take another flight to Bharati station.<br>
+
+Voyage team board the ice breaker ship from Cape Town, South Africa that sails to both the Indian Research stations in Antarctica & returns back to Cape Town at the end of Antarctic summer season. I was fortunate to be part of the voyage team of 36<sup>th</sup> Indian Scientific Expedition to Antarcica (ISEA-36) that took place during the year 2016 - 2017. So, I will be sharing my voyage experiences in more detail in subsequent chapters.</p>
 
 
 <div class="row"> 
