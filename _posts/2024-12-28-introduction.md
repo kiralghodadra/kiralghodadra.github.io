@@ -21,25 +21,26 @@ layout: post
 <p>That was about the origin of our Indian connection with Antarctica. Now, let us know something about the process..!! So, how can we participate in an Indian Antarctic Expedition? Indian Scientific Expeditions to Antarctica are managed & executed by the National Centre for Polar and Ocean Research <a href="https://ncpor.res.in/pages/display/275-organisation">(NCPOR)</a> which is an autonomous Research & Development Institution under Ministry of Earth Sciences <a href="https://en.wikipedia.org/wiki/Ministry_of_Earth_Sciences">(MoES)</a>. Project proposals from scientists & researchers across the country are evaluated by an expert team at NCPOR & a team comprising of members from various Indian organisations & universities is formed based on the rigorous evaluation process, details of which can be found on the <a href="https://en.wikipedia.org/wiki/Ministry_of_Earth_Sciences">NCPOR</a> web portal.</p>
 
 
-<p>Expedition team is classified based on various aspects like the duration for which the team stays in Antarctica, mode that they take to reach Antarctica, etc.<br>
+<p>Expedition team is classified based on various aspects like the duration for which the team stays in Antarctica, mode that they take to reach Antarctica, etc.</p>
 
 
-<b>Classification based on the duration of stay in Antarctica:</b><br>
+<p><b>Classification based on the duration of stay in Antarctica:</b><br>
 1) <b>Short Term or Summer Team:</b> Expedition team that stays & works in Antarctica during Antarctic summer (generally between Nov to April)<br>
-2) <b>Long Term or Winter team:</b> Expedition team that stays & works in Antarctica year round.<br>
+2) <b>Long Term or Winter team:</b> Expedition team that stays & works in Antarctica year round.</p>
 
 
-<b>Classification based on the mode of travel to Antarctica:</b><br>
+<p><b>Classification based on the mode of travel to Antarctica:</b><br>
 1) <b>Flying Team:</b> Team that reaches Antarctica through flight<br>
-2) <b>Voyage Team:</b> Team that reaches Antarctica through ship (generally called voyage team)<br>
+2) <b>Voyage Team:</b> Team that reaches Antarctica through ship (generally called voyage team)</p>
 
 
-Teams are formed based on their scientific objectives, work profile, seat availability, & expedition requirements. Every team comprises of two types of members generally classified based on the type of work they are responsible for doing in Antarctica.<br>
-<b>Classification based on the type of work in Antarctica:</b><br>
+<p>Teams are formed based on their scientific objectives, work profile, seat availability, & expedition requirements. Every team comprises of two types of members generally classified based on the type of work they are responsible for doing in Antarctica.</p>
+
+<p><b>Classification based on the type of work in Antarctica:</b><br>
 1) <b>Scientific:</b> responsible for doing scientific research work in Antarctica<br>
-2) <b>Logistic:</b> responsible for executing logistic operations in Antarctica<br>
+2) <b>Logistic:</b> responsible for executing logistic operations in Antarctica</p>
 
-So, this is all about the team formation & classification that in itself is quite interesting. We get to know people from various domains in different phases of our expedition that I will discuss about in subsequent chapters. Various teams are formed comprising of summer/winter members or scientific/logistic members. One team takes the voyage route to reach Antarctica & rest of the teams fly to Antarctica as per their respective schedules.</p>
+<p>So, this is all about the team formation & classification that in itself is quite interesting. We get to know people from various domains in different phases of our expedition that I will discuss about in subsequent chapters. Various teams are formed comprising of summer/winter members or scientific/logistic members. One team takes the voyage route to reach Antarctica & rest of the teams fly to Antarctica as per their respective schedules.</p>
 
 <p>Wait.... Getting selected for the expedition is not enough! There are few more challenges that every expedition team member has to face after which only he / she is qualified to take part in an Antarctic expedition. We had to undergo a thorough medical examination at All India Institute of Medical Sciences <a href="https://aiims.edu/index.php/en">(AIIMS)</a>, New Delhi that was almost a week long process. Following which, a physical fitness training was held under the expert guidance of Indo Tibettan Border Police Force (ITBPF) officials at Mountaineering & Skiing Institute <a href="https://www.itbpolice.nic.in/">(M&SI)</a>, Auli, Uttarakhand, details of which are shared in a separate chapter. On successful completing of all the tests, participants get the final clearance to take part in an Antarcic expediton.</p>
 
